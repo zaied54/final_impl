@@ -26,15 +26,6 @@
 
 using namespace std;
 
-/**
- * @file   main.cpp
- * @brief  Main executable file. Do not use lib_fftw to
- *         process DCT.
- *
- * @author MARC LEBRUN  <marc.lebrun@cmla.ens-cachan.fr>
- */
-
-
 int main(int argc, char **argv)
 {
     //! Check if there is the right call for the algorithm
