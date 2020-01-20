@@ -1,0 +1,87 @@
+lena.png 10 44.21
+lena.png 20 44.10
+lena.png 30 44.51
+lena.png 40 55.55
+lena.png 50 57.74
+lena.png 60 52.91
+lena.png 70 64.08
+lena.png 80 64.64
+lena.png 90 51.03
+lena.png 100 49.50
+
+boats.png 10 51.05
+boats.png 20 59.19
+boats.png 30 60.77
+boats.png 40 60.74
+boats.png 50 59.46
+boats.png 60 56.14
+boats.png 70 58.63
+boats.png 80 55.04
+boats.png 90 56.72
+boats.png 100 56.25
+
+goldhill.png 10 49.05
+goldhill.png 20 52.14
+goldhill.png 30 51.69
+goldhill.png 40 56.25
+goldhill.png 50 62.23
+goldhill.png 60 63.47
+goldhill.png 70 62.17
+goldhill.png 80 54.57
+goldhill.png 90 52.72
+goldhill.png 100 63.57
+
+man.png 10 57.22
+man.png 20 46.70
+man.png 30 48.09
+man.png 40 55.01
+man.png 50 53.41
+man.png 60 55.29
+man.png 70 51.62
+man.png 80 50.22
+man.png 90 50.41
+man.png 100 48.08
+
+barbara.png 10 47.88
+barbara.png 20 47.75
+barbara.png 30 46.55
+barbara.png 40 61.17
+barbara.png 50 58.30
+barbara.png 60 53.10
+barbara.png 70 53.18
+barbara.png 80 56.66
+barbara.png 90 52.48
+barbara.png 100 61.59
+
+peppers.png 10 57.11
+peppers.png 20 55.68
+peppers.png 30 62.27
+peppers.png 40 60.69
+peppers.png 50 58.04
+peppers.png 60 51.34
+peppers.png 70 50.70
+peppers.png 80 52.42
+peppers.png 90 56.42
+peppers.png 100 50.71
+
+couple.png 10 49.21
+couple.png 20 46.93
+couple.png 30 51.36
+couple.png 40 60.44
+couple.png 50 57.29
+couple.png 60 59.14
+couple.png 70 56.23
+couple.png 80 59.14
+couple.png 90 58.91
+couple.png 100 57.51
+
+baboon.png 10 55.48
+baboon.png 20 51.00
+baboon.png 30 58.08
+baboon.png 40 58.57
+baboon.png 50 55.99
+baboon.png 60 58.43
+baboon.png 70 58.46
+baboon.png 80 53.98
+baboon.png 90 50.41
+baboon.png 100 57.60
